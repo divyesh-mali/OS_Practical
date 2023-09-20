@@ -15,5 +15,6 @@ then
     echo $num2 "is greatest number"
 else
     echo $num3 "is greatest number"
-fi
-    
+fi 
+# "fi" is written whenever we use multiple if/elif conditions.
+# In case of single if statement, dont use "fi"    
